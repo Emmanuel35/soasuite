@@ -1,3 +1,8 @@
 /HelloWorldApp/.adf/META-INF
 
 /HelloWorldApp/HelloWorld/.designer
+/HelloWorldApp/.adf
+/HelloWorldApp/HelloWorld/classes
+/HelloWorldApp/HelloWorld/deploy
+/HelloWorldApp/HelloWorld/SCA-INF/classes
+/HelloWorldApp/HelloWorld/SCA-INF/gen-classes
