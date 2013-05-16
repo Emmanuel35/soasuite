@@ -1,4 +1,5 @@
 soasuite
 ========
 
-Référentiel ds projets du blog.anteo-consulting.com
+Référentiel des projets du blog.anteo-consulting.com:
+- HelloWorldApp: http://blog.anteo-consulting.com/?p=1723
